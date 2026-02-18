@@ -86,12 +86,12 @@ Data was cleaned and transformed before building the dashboard model.
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview]https://github.com/PraveenPulasam/Revenue-Profit-Performance-Analysis/blob/main/Image.png)
+![Dashboard Preview](image.png)
 
 ## 📁 Project Files
 - `Revenue_Profit_Dashboard.pbix` — Main Power BI dashboard file
 - `dataset.xlsx` — Source dataset
-- `dashboard_preview.png` — Dashboard screenshot
+- `image.png` — Dashboard screenshot
 
 ---
 
