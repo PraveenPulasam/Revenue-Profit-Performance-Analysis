@@ -86,7 +86,7 @@ Data was cleaned and transformed before building the dashboard model.
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](image.png)
+image.png
 
 ## 📁 Project Files
 - `Revenue_Profit_Dashboard.pbix` — Main Power BI dashboard file
