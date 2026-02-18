@@ -1,6 +1,6 @@
-# 📊 Revenue & Profit Performance Analysis
+# Revenue & Profit Performance Analysis
 
-## 🔎 Project Overview
+## Project Overview
 This project presents an interactive **Power BI dashboard** designed to analyze **Revenue, Profit, Sales Growth, Customer Performance, and Regional Trends**.  
 The goal of this analysis is to help stakeholders understand business performance, identify profit-driving categories, and detect areas with high discounts but low profitability.
 
@@ -8,7 +8,7 @@ The dashboard focuses on real-world business KPIs such as **MTD Sales, YTD Sales
 
 ---
 
-## 🎯 Business Objectives
+##  Business Objectives
 - Monitor overall business performance using key KPIs.
 - Identify which **regions and categories** generate the highest profit.
 - Analyze **Month-over-Month (MoM)** and **Year-over-Year (YoY)** growth trends.
@@ -17,7 +17,7 @@ The dashboard focuses on real-world business KPIs such as **MTD Sales, YTD Sales
 
 ---
 
-## 📌 Key Insights
+##  Key Insights
 - 📉 East Region shows higher discounts but comparatively lower profit.
 - 💻 Technology category generates the highest total profit.
 - 📊 Some months show negative MOM growth, indicating seasonal variation.
@@ -26,7 +26,7 @@ The dashboard focuses on real-world business KPIs such as **MTD Sales, YTD Sales
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features
 ### KPI Cards
 - Total Sales
 - Total Profit
@@ -51,7 +51,7 @@ The dashboard focuses on real-world business KPIs such as **MTD Sales, YTD Sales
 
 ---
 
-## 🛠 Tools & Technologies Used
+##  Tools & Technologies Used
 - Power BI Desktop
 - DAX (Data Analysis Expressions)
 - Data Modeling
@@ -60,7 +60,7 @@ The dashboard focuses on real-world business KPIs such as **MTD Sales, YTD Sales
 
 ---
 
-## 📂 Dataset Description
+##  Dataset Description
 The dataset includes:
 - Order Date
 - Region
@@ -75,7 +75,7 @@ Data was cleaned and transformed before building the dashboard model.
 
 ---
 
-## 🧮 DAX Measures Used (Examples)
+##  DAX Measures Used (Examples)
 - Total Sales
 - Total Profit
 - MTD Sales
@@ -85,24 +85,24 @@ Data was cleaned and transformed before building the dashboard model.
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 <img width="1050" height="487" alt="Image.png" src="https://github.com/PraveenPulasam/Revenue-Profit-Performance-Analysis/blob/main/Image.png" />
 
-## 📁 Project Files
+##  Project Files
 - `Revenue_Profit_Dashboard.pbix` — Main Power BI dashboard file
 - `dataset.xlsx` — Source dataset
 - `image.png` — Dashboard screenshot
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 1. Download the `.pbix` file from this repository.
 2. Open using **Power BI Desktop**.
 3. Interact with filters and visuals to explore insights.
 
 ---
 
-## 📈 Skills Demonstrated
+##  Skills Demonstrated
 - Data Analysis
 - Power BI Dashboard Design
 - KPI Development
